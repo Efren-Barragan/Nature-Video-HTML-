@@ -82,7 +82,7 @@ html, body {
 }
 
 .video-section h1 {
-  color:white;
+  color:white ;
 }
 
 .video-section video{
@@ -124,7 +124,7 @@ html, body {
 /* Feature Section */
 
 .feature {
-  background:url(https://s3.amazonaws.com/codecademy-content/projects/excursion/camp.png) no-repeat center center;
+  background:url(img/camp.png) no-repeat center center;
   background-size:cover;
   height:500px;
 }
